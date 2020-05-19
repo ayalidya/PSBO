@@ -1,6 +1,6 @@
 # PSBO
 # PPDB SMP Cendikia Baznas
-![aplikasi-october](https://raw.githubusercontent.com/cindanapr/october-Komdat/master/october.png)
+
 
 [Sekilas Tentang](#sekilas-tentang) | [Ruang Lingkup](#Ruang Lingkup Pengembangan) | [Diagram](#Diagram) |[Fitur-fitur](#Fitur Secara umum) | [KOnsep OOP](#Konsep OOP yang digunakan) | [Tipe Design](#Tipe design yang digunakan) | [Developer](#Developer beserta job desc)
 :---:|:---:|:---:|:---:|:---:|:---:
@@ -11,7 +11,6 @@
 
 PPDB SPM Cendekia Baznas adalah sebuah sistem berbasis web dimana melalui sistem ini calon siswa dapat mendaftarkan diri dengan mengisi form yang sudah disediakan dan mengupload berkas-berkas yang diminta untuk memnuhi pendaftaran. Sistem ini terbagi menjadi 2 yaitu untuk pendaftar dan admin SMP Cendekia Baznas dengan tugas yang berbeda. Untuk sisi admin akan ada ditujukan ke dashboard admin dimana akan dilampirkan informasi-informasi mengenai form yang diisi oleh pendaftar.
 ## Ruang Lingkup Pengembangan
-[`^ kembali ke atas ^`](#aplikasi-october)
 
 ## Diagram 
 ### Usecase
