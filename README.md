@@ -2,7 +2,7 @@
 # PPDB SMP Cendikia Baznas
 
 
-[Sekilas Tentang](#sekilas-tentang) | [Ruang Lingkup](#Ruang Lingkup Pengembangan) | [Diagram](#Diagram) |[Fitur-fitur](#Fitur Secara umum) | [KOnsep OOP](#Konsep OOP yang digunakan) | [Tipe Design](#Tipe design yang digunakan) | [Developer](#Developer beserta job desc)
+[Sekilas Tentang](#sekilas-tentang) | [Ruang Lingkup](#ruang-lingkup-pengembangan) | [Diagram](#diagram) |[Fitur-fitur](#Fitur Secara umum) | [KOnsep OOP](#Konsep OOP yang digunakan) | [Tipe Design](#Tipe design yang digunakan) | [Developer](#Developer beserta job desc)
 :---:|:---:|:---:|:---:|:---:|:---:
 
 
