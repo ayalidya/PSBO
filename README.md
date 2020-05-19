@@ -13,11 +13,12 @@ PPDB SPM Cendekia Baznas adalah sebuah sistem berbasis web dimana melalui sistem
 ## Ruang Lingkup Pengembangan
 
 ## Diagram 
-### Usecase
 
-### Activity Diagram
+#### Usecase
 
-### Class
+#### Activity 
+
+#### Class 
 
 ## Fitur Secara Umum
 
@@ -26,14 +27,5 @@ PPDB SPM Cendekia Baznas adalah sebuah sistem berbasis web dimana melalui sistem
 ## Tipe design yang digunakan
 
 ## Developer beserta job desc
-- Install apache, mysql, php, dan package lain yang dibutuhkan pada server
-```shell
-sudo apt install apache2
-sudo apt install mysql-server
-sudo apt install php7.0
-sudo apt install libapache2-mod-php
-sudo apt install php7.0-mysql
-sudo apt install php7.0-gd php7.0-mcrypt php7.0-xml php7.0-ssh2
-sudo service apache2 restart
-```  
+
 
