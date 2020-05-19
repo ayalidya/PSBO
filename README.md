@@ -14,11 +14,11 @@ PPDB SPM Cendekia Baznas adalah sebuah sistem berbasis web dimana melalui sistem
 
 ## Diagram 
 
-#### Usecase
+####* Usecase
 
-#### Activity 
+####+ Activity 
 
-#### Class 
+####- Class 
 
 ## Fitur Secara Umum
 
